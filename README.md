@@ -10,6 +10,10 @@ This repository contains JavaScript scripts developed using Google Earth Engine 
 
 A spatial analysis using Allen Coral Atlas data to investigate suitable research stations for coral sampling by snorkelling, based on accessible reef habitats within a specified distance of each station.
 
+## Data Source
+
+Allen Coral Atlas. (2020). Imagery, maps and monitoring of the world's tropical coral reefs [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3833242
+
 ## Assessment – Mapping the World's Deep Ocean Ecosystems
 
 **DeepOceanEcosystems.js**

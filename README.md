@@ -27,3 +27,9 @@ The interactive map also incorporates independently sourced hydrothermal vent lo
 
 - Google Earth Engine
 - JavaScript
+
+## Data Sources
+
+- [Allen Coral Atlas v2.0](https://developers.google.com/earth-engine/datasets/catalog/ACA_reef_habitat_v2_0) – Global coral reef habitat data used to assess accessible coral/algae habitat surrounding research stations.
+- [ETOPO1 Global Relief Model](https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1) – Global bathymetric data used to classify deep ocean ecosystems based on depth and seafloor slope.
+- [InterRidge Global Database of Active Submarine Hydrothermal Vent Fields v3.4](https://doi.org/10.1594/PANGAEA.917894) – Independently sourced vector dataset used to visualise known hydrothermal vent locations.
